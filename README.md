@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Attribution
 -----------
 If you use the dataset in scientific work, please cite:
@@ -21,3 +22,7 @@ Mail: jaimin108jd@gmail.com
 //python -m streamlit run app.py 
 //tensorflow
 //----//
+=======
+# AI-week_13
+week 13
+>>>>>>> 0aedd18baf7430cd086f43bdf04c6bd49bad4fdc
